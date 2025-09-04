@@ -30,7 +30,7 @@
     "nodemailer": "6.9.3",
     "openai": "4.24.1",
     "qs": "6.11.2",
-    "stripe": "12.13.0"
+    "stripe": "18.4.0"
   },
   "devDependencies": {
     "@typebot.io/forge": "workspace:*",
