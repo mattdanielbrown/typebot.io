@@ -27,7 +27,7 @@
     "got": "12.6.0",
     "libphonenumber-js": "1.10.37",
     "node-html-parser": "6.1.5",
-    "nodemailer": "6.9.3",
+    "nodemailer": "7.0.7",
     "openai": "4.24.1",
     "qs": "6.11.2",
     "stripe": "12.13.0"
