@@ -37,7 +37,7 @@
   "devDependencies": {
     "@faire/mjml-react": "3.3.0",
     "@paralleldrive/cuid2": "2.2.1",
-    "@playwright/test": "1.36.0",
+    "@playwright/test": "1.44.0",
     "@typebot.io/emails": "workspace:*",
     "@typebot.io/env": "workspace:*",
     "@typebot.io/forge": "workspace:*",
