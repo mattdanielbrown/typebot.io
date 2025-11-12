@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "@mistralai/mistralai": "^0.0.10",
-    "ai": "2.2.31"
+    "ai": "5.0.52"
   }
 }
