@@ -11,10 +11,10 @@
   },
   "devDependencies": {
     "@types/jest": "29.4.0",
-    "tsup": "6.5.0",
+    "tsup": "8.5.1",
     "eslint": "8.32.0",
     "eslint-config-custom": "workspace:*",
-    "jest": "29.4.1",
+    "jest": "30.0.0",
     "jest-environment-jsdom": "29.4.1",
     "prettier": "2.8.3",
     "ts-jest": "29.0.5",
